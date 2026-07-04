@@ -133,6 +133,18 @@
   <a href="https://github.com/70174381-web/Cloud_Security_Compliance_Audit">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=Cloud_Security_Compliance_Audit&theme=tokyonight" alt="Cloud Security Compliance Audit"/>
   </a>
+  <a href="https://github.com/70174381-web/phishing-program">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=phishing-program&theme=tokyonight" alt="phishing-program"/>
+  </a>
+  <a href="https://github.com/70174381-web/cybersecurity-incident-response-plan">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=cybersecurity-incident-response-plan&theme=tokyonight" alt="cybersecurity-incident-response-plan"/>
+  </a>
+  <a href="https://github.com/70174381-web/Web-Application-Security-Assessment">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=Web-Application-Security-Assessment&theme=tokyonight" alt="Web-Application-Security-Assessment"/>
+  </a>
+  <a href="https://github.com/70174381-web/SOC-console">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=SOC-console&theme=tokyonight" alt="SOC-console"/>
+  </a>
 </p>
 
 </details>
