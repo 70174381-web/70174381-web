@@ -5,19 +5,22 @@ on:
     - cron: "0 0 * * *"      # regenerates once a day
   workflow_dispatch:         # lets you trigger it manually from the Actions tab
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: generate trophies
-        uses: ryo-ma/github-profile-trophy@v1
+      - name: checkout
+        uses: actions/checkout@v4
+
+      - name: generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: 70174381-web
-          output: profile-trophy.svg
-          theme: tokyonight
-          column: 4
-          margin-w: 15
-          margin-h: 15
+          output_path: profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: commit and push
         run: |
