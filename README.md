@@ -94,10 +94,10 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Fidia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=70174381-web&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img alt="Fidia's Github Stats" src="https://github-stats-extended.vercel.app/api?username=70174381-web&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=70174381-web&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Fidia's top langs" height="230px"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=70174381-web&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Fidia's top langs" height="230px"/>
   <br/>
   <b>Note:</b> Top languages reflect public code and don't capture all my networking/config-based work (e.g. Cisco Packet Tracer files).
 </p>
@@ -128,10 +128,10 @@
 
 <p align="center">
   <a href="https://github.com/70174381-web/Network-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=70174381-web&repo=Network-Project&theme=tokyonight" alt="Network-Project"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=Network-Project&theme=tokyonight" alt="Network-Project"/>
   </a>
   <a href="https://github.com/70174381-web/Cloud_Security_Compliance_Audit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=70174381-web&repo=Cloud_Security_Compliance_Audit&theme=tokyonight" alt="Cloud Security Compliance Audit"/>
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=70174381-web&repo=Cloud_Security_Compliance_Audit&theme=tokyonight" alt="Cloud Security Compliance Audit"/>
   </a>
 </p>
 
