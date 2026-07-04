@@ -1,101 +1,86 @@
-<h1 align="center">Hey there, I'm Fidia! 👋🌱</h1>
-<h3 align="center">Network nerd, database lover, aspiring ICT engineer 🌐💚</h3>
+<h1 align="center">Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=4ADE80&center=true&vCenter=true&width=600&lines=Making+networks+behave+since+2024+%F0%9F%98%84;OSPF+by+day%2C+dreaming+in+VLANs+by+night;Currently+hunting+for+an+internship+%E2%9C%A8;Let's+build+something+cool+together!" alt="Typing SVG" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=70174381-web.70174381-web" alt="Profile views">
+  <a href="https://github.com/70174381-web"><img src="https://img.shields.io/github/followers/70174381-web?label=Follow&style=social" alt="Github"></a>
 </p>
+
+<div align="center">
+  Hi! My name is <b>Fidia</b>. Thanks for stopping by my GitHub profile 😄🌱
+</div>
+
+<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="100px"></h2>
+
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
+- 🔭 I'm currently studying **Software Engineering** at the University of Lahore (2nd year)
+- 🌱 I'm currently learning **Cloud Security** and SOC/blue-team workflows
+- 👯 I'm looking to collaborate on **networking, database, or security projects**
+- 💬 Ask me about **OSPF, VLANs, MySQL, or database design**
+- 📫 Reach me at **fidia.batool18@gmail.com**
+- ⚡ Fun fact: I genuinely enjoy debugging a broken network more than a working one — fixing it is the fun part
+
+<br clear="right">
+
+<h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
+
+<p>
+<img width="48px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" title="Python">
+<img width="48px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg" title="SQL">
+<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL">
+<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows">
+<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" title="Google Workspace">
+<img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Command Line">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-4ADE80?style=for-the-badge&logo=cisco&logoColor=black">
+<img src="https://img.shields.io/badge/OSPF-4ADE80?style=for-the-badge">
+<img src="https://img.shields.io/badge/VLANs-4ADE80?style=for-the-badge">
+<img src="https://img.shields.io/badge/DHCP%20%26%20DNS-4ADE80?style=for-the-badge">
+<img src="https://img.shields.io/badge/RBAC-2DD4BF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cloud%20Security-2DD4BF?style=for-the-badge">
+</p>
+
+<h2> Featured Projects 🛠️ </h2>
+
+- 🏬 **[FreshMart Enterprise Network](https://github.com/70174381-web/Network-Project)** — multi-branch retail network with OSPF routing & VLAN segmentation, built in Cisco Packet Tracer
+- 🗃️ **[IDSAS Debt Statistics System](https://github.com/70174381-web/Network-Project)** — relational database tracking national debt across 150+ countries, 7-table schema with 3-tier RBAC
+- 🛡️ **SOC Console** — threat detection & alert triage workflow, inspired by a Mastercard phishing simulation
+- ☁️ **[Cloud Security Compliance Audit](https://github.com/70174381-web/Cloud_Security_Compliance_Audit)** — audit framework checking cloud configs against compliance standards
+
+<h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
+
+<a href="https://www.linkedin.com/in/fidia-batool-059018254"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a>
+<a href="mailto:fidia.batool18@gmail.com"><img width="32px" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"></a>
+<a href="https://www.github.com/70174381-web"><img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
+
+<br><br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="280">
+  <a href="https://github.com/70174381-web"><img src="https://github-readme-activity-graph.vercel.app/graph?username=70174381-web&theme=react-dark&bg_color=070a08&color=4ade80&line=4ade80&point=fbbf24" alt="Fidia's GitHub Activity Graph"></a>
 </p>
 
+<table>
+<thead>
+<tr>
+<th><img src="https://github-readme-stats.vercel.app/api?username=70174381-web&show_icons=true&theme=dark&bg_color=070a08&title_color=4ade80&icon_color=4ade80" alt="Fidia's github stats"></th>
+<th><img src="https://github-readme-streak-stats.herokuapp.com/?user=70174381-web&theme=dark&background=070a08&stroke=4ade80&ring=4ade80&fire=fbbf24" alt="Fidia's GitHub Streak"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=70174381-web&theme=dark&bg_color=070a08&title_color=4ade80" alt="Top Langs"></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=70174381-web&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=dark&bg_color=070a08&title_color=4ade80" alt="Github Stars"></td>
+</tr>
+</tbody>
+</table>
+
+<p align="center"><img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card"></p>
+
+<br>
+<hr>
 <p align="center">
-  <a href="https://www.linkedin.com/in/fidia-batool-059018254" target="_blank">
-    <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-4ADE80?style=for-the-badge&logo=linkedin&logoColor=black" />
-  </a>
-  <a href="mailto:fidia.batool18@gmail.com">
-    <img src="https://img.shields.io/badge/Say%20hi-Email-4ADE80?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
+  💌 Open to ICT & network internship opportunities — <a href="mailto:fidia.batool18@gmail.com">fidia.batool18@gmail.com</a>
 </p>
-
----
-
-### 🌟 A little about me
-
-```
-const fidia = {
-  location: "Lahore, Pakistan 🇵🇰",
-  studying: "BSc Software Engineering @ University of Lahore",
-  year: "2nd year, class of 2028",
-  loves: ["untangling messy networks", "clean database schemas", "a good challenge"],
-  currentlyLearningAbout: ["cloud security", "SOC workflows", "all things blue-team"],
-  lookingFor: "an ICT / network internship — say hi if you're hiring! 👋",
-};
-```
-
-I'm the person who actually *enjoys* debugging a network at 1am and feels genuine joy when a VLAN finally routes correctly. I like building things that are secure by design, not as an afterthought — and I love turning "it's broken" into "here's exactly why, and here's the fix."
-
-Outside of routers and relational databases, I've been a digital outreach volunteer, picked up a soft-skills program with Google, and said yes to every job simulation I could find (Deloitte, Mastercard, British Airways — turns out simulations are a great way to learn by doing!).
-
----
-
-### 🧰 Things I like building with
-
-<p align="center">
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-4ADE80?style=for-the-badge&logo=cisco&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-FBBF24?style=for-the-badge&logo=mysql&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-FBBF24?style=for-the-badge&logo=python&logoColor=black" />
-<img src="https://img.shields.io/badge/Windows-2DD4BF?style=for-the-badge&logo=windows&logoColor=black" />
-<img src="https://img.shields.io/badge/Google%20Workspace-2DD4BF?style=for-the-badge&logo=google&logoColor=black" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/OSPF-4ADE80?style=flat-square" />
-<img src="https://img.shields.io/badge/VLANs-4ADE80?style=flat-square" />
-<img src="https://img.shields.io/badge/DHCP%20%26%20DNS-4ADE80?style=flat-square" />
-<img src="https://img.shields.io/badge/RBAC-2DD4BF?style=flat-square" />
-<img src="https://img.shields.io/badge/EER%20Modelling-FBBF24?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20Security-2DD4BF?style=flat-square" />
-</p>
-
----
-
-### 🛠️ Some stuff I've made
-
-🏬 **[FreshMart Enterprise Network](https://github.com/70174381-web/Network-Project)**
-Built a full multi-branch retail network from scratch in Cisco Packet Tracer — OSPF routing, VLAN segmentation, the works. Broke it on purpose a few times just to fix it again (best way to learn 😄).
-
-🗃️ **[IDSAS Debt Statistics System](https://github.com/70174381-web/Network-Project)**
-A database tracking national debt across 150+ countries. 7 tables, 3 permission levels, zero chaos — very proud of how clean this schema turned out.
-
-🛡️ **SOC Console**
-My take on a threat-detection & alert workflow, inspired by a phishing-simulation project with Mastercard. Blue-team curiosity, put into practice.
-
-☁️ **[Cloud Security Compliance Audit](https://github.com/70174381-web/Cloud_Security_Compliance_Audit)**
-An audit framework for checking cloud environments against real compliance standards — access controls, gap analysis, and a plan to fix what's found.
-
----
-
-### 📈 A peek at my GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=70174381-web&show_icons=true&theme=dark&hide_border=true&bg_color=070a08&title_color=4ade80&icon_color=4ade80&text_color=e8f0ea" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=70174381-web&theme=dark&hide_border=true&background=070a08&stroke=4ade80&ring=4ade80&fire=fbbf24&currStreakLabel=4ade80" width="48%" />
-</p>
-
----
-
-### 🏅 Badges I've picked up along the way
-
-🎫 Mastercard Cybersecurity Sim &nbsp;•&nbsp; ✈️ British Airways Data Science Sim &nbsp;•&nbsp; 💼 Deloitte Technology Sim &nbsp;•&nbsp; 📄 Microsoft MOS Word Associate &nbsp;•&nbsp; 🗣️ EF SET English C1
-
----
-
-<p align="center">
-  💌 <b>Got an internship, a project, or just want to talk networks?</b><br>
-  I'd genuinely love to hear from you — <a href="mailto:fidia.batool18@gmail.com">fidia.batool18@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=70174381-web&style=flat-square&color=4ade80" alt="profile views" />
-</p>
+<p>Made by <a href="https://github.com/70174381-web">Fidia Batool</a> · Lahore, Pakistan</p>
